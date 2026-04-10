@@ -1,6 +1,6 @@
 cask "claude-monitor" do
-  version "1.2.0"
-  sha256 "545a5af490e70689b8d539d23fa0d068c2f6ce484a420fff94fa8702b5e33cf5"
+  version "1.3.0"
+  sha256 "6778d13f34f73b0dc542388833cbf7697f7297bfdcade2673be97c0c47b5c0f6"
 
   url "https://github.com/AlexisBianchi18/claude-monitor/releases/download/v#{version}/Claude.Monitor.app.zip"
   name "Claude Monitor"
